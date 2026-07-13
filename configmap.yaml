@@ -5,7 +5,7 @@ metadata:
   namespace: ai-task-platform
 data:
   NODE_ENV: production
-  CORS_ORIGIN: https://app.example.com
+  CORS_ORIGIN: https://test
   QUEUE_KEY: ai_tasks
   MONGODB_DB: ai-task-platform
   BACKEND_PORT: "4000"
